@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajiv-Israni
-- 👀 I’m interested a Javascript enthisiast.
+- 👀 I’m a Javascript enthisiast.
 - 🌱 My core skills are working with ReactJS, NodeJS and MongoDB for the database.
 
 <!---
